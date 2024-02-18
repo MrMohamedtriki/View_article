@@ -133,7 +133,7 @@
     echo "<li>$p</li>";
     ?>
 </ul>
-<b>Prix:</b> <?php echo $prix ?></br>
+<b>Prix :</b> <?php echo $prix ?></br>
 <b>Quantité:</b> <?php echo $qte ?><br>
 <?php }?>
 </body>
