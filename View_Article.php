@@ -13,7 +13,7 @@
 </head>
 <body>
     <?php
-    echo var_dump($_GET);
+    //echo var_dump($_GET);
     echo "<h1>Formulaire de saisie d'un article</h1>";
     echo "Les champs marqués d'une * sont obligatoires";
     $erreurReference="";
